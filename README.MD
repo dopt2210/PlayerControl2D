@@ -1,5 +1,6 @@
 BASIC CONTROL FOR PLATFORM 2D
 //--------------------------//
+
 This game was created by a team of three.
 
 Main Objective:
